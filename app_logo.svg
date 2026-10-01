@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 108 108" role="img" aria-label="Sound Effects logo">
+  <rect width="108" height="108" rx="25" fill="#2b1249"/>
+  <path d="M25 50v8M38 42v24M70 42v24M83 50v8" fill="none" stroke="#fff5ec" stroke-width="10" stroke-linecap="round"/>
+  <path d="M54 32v44" fill="none" stroke="#ff7146" stroke-width="11" stroke-linecap="round"/>
+</svg>
